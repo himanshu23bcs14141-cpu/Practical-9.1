@@ -1,0 +1,13 @@
+{
+  "name": "react-docker-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "echo Dev server placeholder",
+    "build": "echo Building... && mkdir -p dist && echo '<!doctype html><html><head><title>Demo</title></head><body><h1>React Docker Demo</h1></body></html>' > dist/index.html"
+  }
+}
